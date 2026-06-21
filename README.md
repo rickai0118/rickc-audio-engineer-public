@@ -10,10 +10,11 @@
   [![Agent Skill](https://img.shields.io/badge/Agent-Ready-blueviolet.svg)]()
   <br><br>
   **🌐 R!CKC LABS / CONNECT WITH ME**<br>
-  [![Suno](https://img.shields.io/badge/Suno-Creator_Profile-black?style=flat-square)](https://suno.com/)
-  [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/)
-  [![Spotify](https://img.shields.io/badge/Spotify-Artist-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://spotify.com/)
-  [![Xiaohongshu](https://img.shields.io/badge/小红书-R!CKC_LABS-ff2442?style=flat-square)](https://xiaohongshu.com/)
+  [![Suno](https://img.shields.io/badge/Suno-@rickc183-black?style=flat-square)](https://suno.com/@rickc183)
+  [![YouTube](https://img.shields.io/badge/YouTube-@RickcLabs-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@RickcLabs)
+  [![Spotify](https://img.shields.io/badge/Spotify-R!CKC-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/artist/5BlFIj4LibodYSOGbBs3On)
+  [![Spotify](https://img.shields.io/badge/Spotify-CYANVEIL-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/artist/29asYQAXcr3kpaKSIMG4Ms)
+  [![Xiaohongshu](https://img.shields.io/badge/小红书-R!CKC_LABS-ff2442?style=flat-square)](https://www.xiaohongshu.com/user/profile/5657d23e0bf90c1c8dbeda08)
   
   *把“人声怎么唱 + 混音台怎么调 + 效果器加多少”转化为结构化指令，<br/>让 AI 不凭感觉瞎猜，直接复刻出录音棚级别的成品。*
 </div>
