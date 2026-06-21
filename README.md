@@ -1,3 +1,5 @@
+![Rickc Audio Engineer Banner](assets/banner.png)
+
 # 🎛️ Rickc Audio Engineer Public 
 
 **录音棚级 AI 音乐创作全流程助手 (Suno AI 专业提示法)**
